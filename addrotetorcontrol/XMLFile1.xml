@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>boat.jpg</ImageUrl>
+		<NavigateUrl>1.aspx</NavigateUrl>
+		<Impressions>5</Impressions>
+	</Ad>
+	<Ad>
+		<ImageUrl>green.jpg</ImageUrl>
+		<NavigateUrl>2.aspx</NavigateUrl>
+		<Impressions>5</Impressions>
+	</Ad>
+</Advertisements>
